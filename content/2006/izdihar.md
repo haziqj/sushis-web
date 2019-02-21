@@ -5,13 +5,11 @@ sushileftservice = false
 sushileftscholarship = false
 showonlyimage = false
 draft = false
-image = "img/portfolio/business-card-26.jpg"
+image = "img/portfolio/envelope-brand.jpg"
 date = "2016-11-05T18:25:22+05:30"
-title = "Maj Dr Hamiz"
+title = "Lt (U) Izdihar"
 weight = 0
 +++
 
-Md Hamiz bin Hj Jamil, BDS (KCL)
+Md Izdihar bin Imran
 <!--more-->
-
-Major Hamiz is a dentist.

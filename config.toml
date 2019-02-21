@@ -14,7 +14,7 @@ googleAnalytics = ""
   description = "MINDEF Scholars"
   copyright = "&copy;2019 Sushis"
   sidebarAbout = [
-    "Recepients of the Supreme Commander of the Royal Brunei Armed Forces and the Royal Brunei Armed Forces Scholarship awarded by the Ministry of Defence, Brunei." 
+    "Recipients of the Supreme Commander of the Royal Brunei Armed Forces and the Royal Brunei Armed Forces Scholarship awarded by the Ministry of Defence, Brunei." 
     #,"Originally from Toronto, currently based in London."
   ]
   # Contact page
@@ -35,16 +35,16 @@ googleAnalytics = ""
   [[params.navlinks]]
   name = "About"
   url = "about/"
+  home = true
 
   [[params.navlinks]]
   name = "2005"
   url = "2005/"
-  home = true
+  
 
   [[params.navlinks]]
   name = "2006"
   url = "2006/"
-  home = true
 
 
 

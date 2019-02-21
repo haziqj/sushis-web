@@ -5,13 +5,12 @@ sushileftservice = false
 sushileftscholarship = false
 showonlyimage = false
 draft = false
-image = "img/portfolio/business-card-26.jpg"
+image = "img/portfolio/business-card.jpg"
 date = "2016-11-05T18:25:22+05:30"
-title = "Maj Dr Hamiz"
+title = "Shinling"
 weight = 0
 +++
 
-Md Hamiz bin Hj Jamil, BDS (KCL)
+Lim Shinling
 <!--more-->
 
-Major Hamiz is a dentist.
