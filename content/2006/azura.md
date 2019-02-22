@@ -3,14 +3,13 @@ sushiinservice = true
 sushistudying = false
 sushileftservice = false
 sushileftscholarship = false
-image = ""
 showonlyimage = false
-date = "2016-11-05T19:44:32+05:30"
-title = "Mazveen"
 draft = false
+image = "img/portfolio/paper-presentation.jpg"
+date = "2016-11-05T18:25:22+05:30"
+title = "Cpt Azura"
 weight = 0
 +++
 
-Mazveen Kaur Saggu, BSc (Edin), MSc (LSE)
+Azura binti Hidup, LLB (Sheff).
 <!--more-->
-
