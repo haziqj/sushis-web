@@ -1,6 +1,6 @@
 +++
 sushiinservice = true
-sushistudying = false
+sushistudying = true
 sushileftservice = true
 sushileftscholarship = true
 +++

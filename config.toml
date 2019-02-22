@@ -41,13 +41,45 @@ googleAnalytics = ""
   name = "2005"
   url = "2005/"
   
-
   [[params.navlinks]]
   name = "2006"
   url = "2006/"
 
+  [[params.navlinks]]
+  name = "2007"
+  url = "2007/"
 
+  [[params.navlinks]]
+  name = "2008"
+  url = "2008/"
 
+  [[params.navlinks]]
+  name = "2009"
+  url = "2009/"
+
+  [[params.navlinks]]
+  name = "2011"
+  url = "2011/"
+
+  [[params.navlinks]]
+  name = "2012"
+  url = "2012/"
+
+  [[params.navlinks]]
+  name = "2013"
+  url = "2013/"
+
+  [[params.navlinks]]
+  name = "2014"
+  url = "2014/"
+
+  [[params.navlinks]]
+  name = "2015"
+  url = "2015/"
+
+  [[params.navlinks]]
+  name = "2016"
+  url = "2016/"
 
   [params.social]
   facebook      = "full page or profile url in facebook"
